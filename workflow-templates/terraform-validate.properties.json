@@ -1,0 +1,8 @@
+{
+    "name": "terraform validate workflow",
+    "description": "Starter workflow to validate and security check terraform",
+    "iconName": "example-icon",
+    "categories": [
+        "deployment"
+    ]
+}
